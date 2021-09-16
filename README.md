@@ -1,2 +1,3 @@
 # myrepository
-my own repository
+Hi all,
+       hope all are doing good. This is the first meeting that we discussing in the current project
